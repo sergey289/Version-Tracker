@@ -1,0 +1,50 @@
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\AppVersions.txt
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\Version Tracker.exe.config
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\Version Tracker.exe
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\Version Tracker.pdb
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.BonusSkins.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Data.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Drawing.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Printing.v22.2.Core.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Utils.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraEditors.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraGrid.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraLayout.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\Newtonsoft.Json.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraBars.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Office.v22.2.Core.dll
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Data.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Utils.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraEditors.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Printing.v22.2.Core.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraGrid.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraLayout.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\Newtonsoft.Json.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraBars.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\bin\Release\DevExpress.Office.v22.2.Core.xml
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version Tracker.csproj.AssemblyReference.cache
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version_Tracker.Forms.EditForm.resources
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version_Tracker.Forms.NewVersion.resources
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version_Tracker.Main.resources
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version_Tracker.Properties.Resources.resources
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version Tracker.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version Tracker.exe.licenses
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version Tracker.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version Tracker.csproj.CopyComplete
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version Tracker.exe
+C:\Users\sergey\Desktop\Version Tracker\Version Tracker\obj\Release\Version Tracker.pdb
